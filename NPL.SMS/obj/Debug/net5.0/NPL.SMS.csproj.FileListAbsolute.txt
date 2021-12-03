@@ -1,0 +1,90 @@
+C:\Users\DELL\Downloads\New folder\oop-main\NPL.SMS\bin\Debug\net5.0\NPL.SMS.exe
+C:\Users\DELL\Downloads\New folder\oop-main\NPL.SMS\bin\Debug\net5.0\NPL.SMS.deps.json
+C:\Users\DELL\Downloads\New folder\oop-main\NPL.SMS\bin\Debug\net5.0\NPL.SMS.runtimeconfig.json
+C:\Users\DELL\Downloads\New folder\oop-main\NPL.SMS\bin\Debug\net5.0\NPL.SMS.runtimeconfig.dev.json
+C:\Users\DELL\Downloads\New folder\oop-main\NPL.SMS\bin\Debug\net5.0\NPL.SMS.dll
+C:\Users\DELL\Downloads\New folder\oop-main\NPL.SMS\bin\Debug\net5.0\ref\NPL.SMS.dll
+C:\Users\DELL\Downloads\New folder\oop-main\NPL.SMS\bin\Debug\net5.0\NPL.SMS.pdb
+C:\Users\DELL\Downloads\New folder\oop-main\NPL.SMS\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\DELL\Downloads\New folder\oop-main\NPL.SMS\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\DELL\Downloads\New folder\oop-main\NPL.SMS\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\DELL\Downloads\New folder\oop-main\NPL.SMS\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\DELL\Downloads\New folder\oop-main\NPL.SMS\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL\Downloads\New folder\oop-main\NPL.SMS\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL\Downloads\New folder\oop-main\NPL.SMS\obj\Debug\net5.0\NPL.SMS.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\New folder\oop-main\NPL.SMS\obj\Debug\net5.0\NPL.SMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\New folder\oop-main\NPL.SMS\obj\Debug\net5.0\NPL.SMS.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\New folder\oop-main\NPL.SMS\obj\Debug\net5.0\NPL.SMS.AssemblyInfo.cs
+C:\Users\DELL\Downloads\New folder\oop-main\NPL.SMS\obj\Debug\net5.0\NPL.SMS.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\New folder\oop-main\NPL.SMS\obj\Debug\net5.0\NPL.SMS.csproj.CopyComplete
+C:\Users\DELL\Downloads\New folder\oop-main\NPL.SMS\obj\Debug\net5.0\NPL.SMS.dll
+C:\Users\DELL\Downloads\New folder\oop-main\NPL.SMS\obj\Debug\net5.0\ref\NPL.SMS.dll
+C:\Users\DELL\Downloads\New folder\oop-main\NPL.SMS\obj\Debug\net5.0\NPL.SMS.pdb
+C:\Users\DELL\Downloads\New folder\oop-main\NPL.SMS\obj\Debug\net5.0\NPL.SMS.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\OPP_Đồ án\oop-main\NPL.SMS\bin\Debug\net5.0\NPL.SMS.exe
+C:\Users\Administrator\Downloads\OPP_Đồ án\oop-main\NPL.SMS\bin\Debug\net5.0\NPL.SMS.deps.json
+C:\Users\Administrator\Downloads\OPP_Đồ án\oop-main\NPL.SMS\bin\Debug\net5.0\NPL.SMS.runtimeconfig.json
+C:\Users\Administrator\Downloads\OPP_Đồ án\oop-main\NPL.SMS\bin\Debug\net5.0\NPL.SMS.runtimeconfig.dev.json
+C:\Users\Administrator\Downloads\OPP_Đồ án\oop-main\NPL.SMS\bin\Debug\net5.0\NPL.SMS.dll
+C:\Users\Administrator\Downloads\OPP_Đồ án\oop-main\NPL.SMS\bin\Debug\net5.0\ref\NPL.SMS.dll
+C:\Users\Administrator\Downloads\OPP_Đồ án\oop-main\NPL.SMS\bin\Debug\net5.0\NPL.SMS.pdb
+C:\Users\Administrator\Downloads\OPP_Đồ án\oop-main\NPL.SMS\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Administrator\Downloads\OPP_Đồ án\oop-main\NPL.SMS\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Administrator\Downloads\OPP_Đồ án\oop-main\NPL.SMS\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Administrator\Downloads\OPP_Đồ án\oop-main\NPL.SMS\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Administrator\Downloads\OPP_Đồ án\oop-main\NPL.SMS\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Administrator\Downloads\OPP_Đồ án\oop-main\NPL.SMS\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Administrator\Downloads\OPP_Đồ án\oop-main\NPL.SMS\obj\Debug\net5.0\NPL.SMS.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\OPP_Đồ án\oop-main\NPL.SMS\obj\Debug\net5.0\NPL.SMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\OPP_Đồ án\oop-main\NPL.SMS\obj\Debug\net5.0\NPL.SMS.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\OPP_Đồ án\oop-main\NPL.SMS\obj\Debug\net5.0\NPL.SMS.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\OPP_Đồ án\oop-main\NPL.SMS\obj\Debug\net5.0\NPL.SMS.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\OPP_Đồ án\oop-main\NPL.SMS\obj\Debug\net5.0\NPL.SMS.dll
+C:\Users\Administrator\Downloads\OPP_Đồ án\oop-main\NPL.SMS\obj\Debug\net5.0\ref\NPL.SMS.dll
+C:\Users\Administrator\Downloads\OPP_Đồ án\oop-main\NPL.SMS\obj\Debug\net5.0\NPL.SMS.pdb
+C:\Users\Administrator\Downloads\OPP_Đồ án\oop-main\NPL.SMS\obj\Debug\net5.0\NPL.SMS.genruntimeconfig.cache
+D:\OOP\oop-main\NPL.SMS\bin\Debug\net5.0\NPL.SMS.exe
+D:\OOP\oop-main\NPL.SMS\bin\Debug\net5.0\NPL.SMS.deps.json
+D:\OOP\oop-main\NPL.SMS\bin\Debug\net5.0\NPL.SMS.runtimeconfig.json
+D:\OOP\oop-main\NPL.SMS\bin\Debug\net5.0\NPL.SMS.runtimeconfig.dev.json
+D:\OOP\oop-main\NPL.SMS\bin\Debug\net5.0\NPL.SMS.dll
+D:\OOP\oop-main\NPL.SMS\bin\Debug\net5.0\ref\NPL.SMS.dll
+D:\OOP\oop-main\NPL.SMS\bin\Debug\net5.0\NPL.SMS.pdb
+D:\OOP\oop-main\NPL.SMS\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\OOP\oop-main\NPL.SMS\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\OOP\oop-main\NPL.SMS\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\OOP\oop-main\NPL.SMS\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\OOP\oop-main\NPL.SMS\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\OOP\oop-main\NPL.SMS\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\OOP\oop-main\NPL.SMS\obj\Debug\net5.0\NPL.SMS.csproj.AssemblyReference.cache
+D:\OOP\oop-main\NPL.SMS\obj\Debug\net5.0\NPL.SMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\oop-main\NPL.SMS\obj\Debug\net5.0\NPL.SMS.AssemblyInfoInputs.cache
+D:\OOP\oop-main\NPL.SMS\obj\Debug\net5.0\NPL.SMS.AssemblyInfo.cs
+D:\OOP\oop-main\NPL.SMS\obj\Debug\net5.0\NPL.SMS.csproj.CoreCompileInputs.cache
+D:\OOP\oop-main\NPL.SMS\obj\Debug\net5.0\NPL.SMS.dll
+D:\OOP\oop-main\NPL.SMS\obj\Debug\net5.0\ref\NPL.SMS.dll
+D:\OOP\oop-main\NPL.SMS\obj\Debug\net5.0\NPL.SMS.pdb
+D:\OOP\oop-main\NPL.SMS\obj\Debug\net5.0\NPL.SMS.genruntimeconfig.cache
+D:\New folder (13)\oop-main\NPL.SMS\bin\Debug\net5.0\NPL.SMS.exe
+D:\New folder (13)\oop-main\NPL.SMS\bin\Debug\net5.0\NPL.SMS.deps.json
+D:\New folder (13)\oop-main\NPL.SMS\bin\Debug\net5.0\NPL.SMS.runtimeconfig.json
+D:\New folder (13)\oop-main\NPL.SMS\bin\Debug\net5.0\NPL.SMS.runtimeconfig.dev.json
+D:\New folder (13)\oop-main\NPL.SMS\bin\Debug\net5.0\NPL.SMS.dll
+D:\New folder (13)\oop-main\NPL.SMS\bin\Debug\net5.0\ref\NPL.SMS.dll
+D:\New folder (13)\oop-main\NPL.SMS\bin\Debug\net5.0\NPL.SMS.pdb
+D:\New folder (13)\oop-main\NPL.SMS\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\New folder (13)\oop-main\NPL.SMS\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\New folder (13)\oop-main\NPL.SMS\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\New folder (13)\oop-main\NPL.SMS\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\New folder (13)\oop-main\NPL.SMS\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\New folder (13)\oop-main\NPL.SMS\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\New folder (13)\oop-main\NPL.SMS\obj\Debug\net5.0\NPL.SMS.csproj.AssemblyReference.cache
+D:\New folder (13)\oop-main\NPL.SMS\obj\Debug\net5.0\NPL.SMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (13)\oop-main\NPL.SMS\obj\Debug\net5.0\NPL.SMS.AssemblyInfoInputs.cache
+D:\New folder (13)\oop-main\NPL.SMS\obj\Debug\net5.0\NPL.SMS.AssemblyInfo.cs
+D:\New folder (13)\oop-main\NPL.SMS\obj\Debug\net5.0\NPL.SMS.csproj.CoreCompileInputs.cache
+D:\New folder (13)\oop-main\NPL.SMS\obj\Debug\net5.0\NPL.SMS.csproj.CopyComplete
+D:\New folder (13)\oop-main\NPL.SMS\obj\Debug\net5.0\NPL.SMS.dll
+D:\New folder (13)\oop-main\NPL.SMS\obj\Debug\net5.0\ref\NPL.SMS.dll
+D:\New folder (13)\oop-main\NPL.SMS\obj\Debug\net5.0\NPL.SMS.pdb
+D:\New folder (13)\oop-main\NPL.SMS\obj\Debug\net5.0\NPL.SMS.genruntimeconfig.cache
